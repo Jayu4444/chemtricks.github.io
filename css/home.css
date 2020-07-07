@@ -1,0 +1,29 @@
+body{
+    /* display: fixed; */
+    /* padding: 2%; */
+    background-color: rgb(26, 24, 24);
+}
+nav{
+    background-color: rgb(238, 241, 6);
+}
+ul{
+    display: inline-block;
+    /* float: right; */
+    text-align: center;
+    color: rgb(0, 37, 245);
+    font-size: 1.5rem ;
+    font-weight: bold;
+    text-decoration: none;
+}
+/* img{
+    width:95%;
+    padding-left: 2.5%;
+    align-items: center;
+    height: 48rem;
+} */
+#abouts,#home{
+    text-decoration: none;
+}
+#dropdown{
+    float: right;
+}
